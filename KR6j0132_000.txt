@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 一字頂輪王瑜伽觀行儀軌
+#+DATE: 2015-08-30 20:26:34.005760
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0132
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+一
